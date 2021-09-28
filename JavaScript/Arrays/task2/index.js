@@ -88,7 +88,7 @@ const transactions = [5, 11, 8, 10, -4, 50, 220, 1203, 556, 41];
 
 // put your code here
 
-// input: callback, начальное значение accumulator(number)
+// input: callback, начальное значение accumulator(number),this
 // output: результат (number)
 // callback:
 // input: accumulator(number), el array (number), index(optional), array(optional)
